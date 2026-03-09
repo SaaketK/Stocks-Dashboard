@@ -23,4 +23,4 @@ python app.py
 
 ## How it Works
 
-The application uses Dash callbacks to listen for user input from the dropdown and radio buttons. When a change is detected, the underlying Pandas dataframe is filtered, and the Plotly Express library updates the bar and box plots using the inputs
+The application uses Dash callbacks to listen for user input from the dropdown and radio buttons. When a change is detected, the underlying Pandas dataframe is filtered, and the Plotly Express library updates the bar and box plots
